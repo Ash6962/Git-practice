@@ -9,4 +9,10 @@ ul {
   font-family: Arial, Helvetica, sans-serif;
   color: black;
   background-color: darkcyan;
+}
+
+h2 {
+  color: darkslategray;
+  background-color: lightgrey;
+  font-family: cursive;
 }/*# sourceMappingURL=styles.css.map */
